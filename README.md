@@ -21,5 +21,6 @@ Cara Install Self Bot :
 
 Thx To :
 ------
+- `Nadya`
 - `LINE-TCR TEAM`
 - `HELLO-WORLD`
